@@ -1,0 +1,138 @@
+{
+  "section": {
+    "header": {
+      "h2": "онцлох мэдээ"
+    },
+    "ul": [
+      {
+        "li": {
+          "a": {
+            "type": "onts",
+            "href": "#",
+            "id": "m7",
+            "style": "display: flex;",
+            "img": {
+              "src": "md1.jpg"
+            },
+            "div": {
+              "class": "mlist",
+              "h2": "1 Хамас бүлэглэл Израиль руу довтолсноос 300 гаруй хүн амиа алдаж, 1800 гаруй хүн шархаджээ",
+              "p": "Хамас зэвсэгт байгууллага бямба гарагийн өглөө Газын зурвасаас Израилийн нутагт дэвсгэр рүү гэнэт довтоллоо. Агаар, газар,",
+              "div": {
+                "class": "mqlist",
+                "img": {
+                  "src": "comment-light.bd31b019.svg"
+                },
+                "p": {
+                  "style": "padding-left: 5px;",
+                  "content": "12"
+                },
+                "img2": {
+                  "src": "time-gray.9098dcef.svg",
+                  "style": "padding-left: 10px;"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "li": {
+          "a": {
+             "type": "engiin",
+            "href": "#",
+            "id": "mm7",
+            "style": "display: flex;",
+            "img": {
+              "src": "md1.jpg"
+            },
+            "div": {
+              "class": "mlist",
+              "h2": "2 Хамас бүлэглэл Израиль руу довтолсноос 300 гаруй хүн амиа алдаж, 1800 гаруй хүн шархаджээ",
+              "p": "Хамас зэвсэгт байгууллага бямба гарагийн өглөө Газын зурвасаас Израилийн нутагт дэвсгэр рүү гэнэт довтоллоо. Агаар, газар,",
+              "div": {
+                "class": "mqlist",
+                "img": {
+                  "src": "comment-light.bd31b019.svg"
+                },
+                "p": {
+                  "style": "padding-left: 5px;",
+                  "content": "12"
+                },
+                "img2": {
+                  "src": "time-gray.9098dcef.svg",
+                  "style": "padding-left: 10px;"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "li": {
+          "a": {
+             "type": "onts",
+            "href": "#",
+            "id": "m8",
+            "style": "display: flex;",
+            "img": {
+              "src": "md1.jpg"
+            },
+            "div": {
+              "class": "mlist",
+              "h2": "3Хамас бүлэглэл Израиль руу довтолсноос 300 гаруй хүн амиа алдаж, 1800 гаруй хүн шархаджээ",
+              "p": "Хамас зэвсэгт байгууллага бямба гарагийн өглөө Газын зурвасаас Израилийн нутагт дэвсгэр рүү гэнэт довтоллоо. Агаар, газар,",
+              "div": {
+                "class": "mqlist",
+                "img": {
+                  "src": "comment-light.bd31b019.svg"
+                },
+                "p": {
+                  "style": "padding-left: 5px;",
+                  "content": "12"
+                },
+                "img2": {
+                  "src": "time-gray.9098dcef.svg",
+                  "style": "padding-left: 10px;"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "li": {
+          "a": {
+             "type": "engiin",
+            "href": "#",
+            "id": "mm4",
+            "style": "display: flex;",
+            "img": {
+              "src": "md1.jpg"
+            },
+            "div": {
+              "class": "mlist",
+              "h2": "5Хамас бүлэглэл Израиль руу довтолсноос 300 гаруй хүн амиа алдаж, 1800 гаруй хүн шархаджээ",
+              "p": "Хамас зэвсэгт байгууллага бямба гарагийн өглөө Газын зурвасаас Израилийн нутагт дэвсгэр рүү гэнэт довтоллоо. Агаар, газар,",
+              "div": {
+                "class": "mqlist",
+                "img": {
+                  "src": "comment-light.bd31b019.svg"
+                },
+                "p": {
+                  "style": "padding-left: 5px;",
+                  "content": "12"
+                },
+                "img2": {
+                  "src": "time-gray.9098dcef.svg",
+                  "style": "padding-left: 10px;"
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
+

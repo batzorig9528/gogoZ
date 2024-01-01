@@ -1,0 +1,67 @@
+        /* Dark mode background and text color */
+    body {
+        background-color: #000000;
+        color: #ffffff;
+        
+    }
+/* Dark mode header */
+    header {
+        display: flex;
+        background-color: #000000;
+        color: #ffffff;
+    }
+
+/* Dark mode navigation links */
+    header a {
+        color: #ffffff;
+    }
+
+/* Dark mode navigation links on hover */
+    header a:hover {
+        color: #ff9900;
+    }
+    header li {
+        padding-left: 25%;
+    }
+/* Dark mode content sections */
+    section {
+        background-color: #000000;
+        color: #ffffff;
+    }
+
+/* Dark mode links */
+/* Dark mode links on hover */
+    a:hover {
+        color: #ffcc00;
+    }
+   a{
+    color: #ffffff;
+   }
+/* Dark mode footer */
+    footer {
+        display: flex;
+        background-color: #000000;
+        color: #ffffff;
+    }
+
+/* Dark mode footer links */
+    footer a {
+        color: #ffffff;
+    }
+
+/* Dark mode footer links on hover */
+    footer a:hover {
+        color: #ffcc00;
+    }
+    ul{
+        display: flex;
+        list-style-type: none;
+    }
+    .pro{
+        display: flex;
+        height: 30px;
+        width: 800px;
+    }
+    article div img{
+        
+    }

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic JSON Loading</title>
+</head>
+<body>
+
+<!-- Button to trigger the event -->
+<button id="loadDataButton">Load Data</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Add a click event listener to the button
+    document.getElementById('loadDataButton').addEventListener('click', async function () {
+        try {
+            // Fetch the data dynamically
+            const response = await fetch('./data.json');
+            const data = await response.json();
+            // Construct the query parameter string
+            const queryParams = Object.entries(data).map(([key, value]) => `${key}=${encodeURIComponent(JSON.stringify(value))}`).join('&');
+            console.log(queryParams);
+
+            // Construct the URL with query parameters
+            const newURL = `medee.html?${queryParams}`;
+
+            // Open the new page
+            window.location.href = newURL;
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
+    });
+});
+</script>
+
+</body>
+</html>
+

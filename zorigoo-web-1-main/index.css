@@ -1,0 +1,73 @@
+      /* Dark mode background and text color */
+    body {
+        background-color: #000;
+        color: #ffffff;
+        
+    }
+
+/* Dark mode header */
+    header {
+        display: flex;
+        background-color: #000;
+        color: #ffffff;
+    }
+
+/* Dark mode navigation links */
+    header a {
+        color: #ffffff;
+    }
+
+/* Dark mode navigation links on hover */
+    header a:hover {
+        color: #ff9900;
+    }
+    header li {
+        padding-left: 25%;
+    }
+/* Dark mode content sections */
+    section {
+        background-color: #000;
+        color: #ffffff;
+    }
+
+/* Dark mode links */
+    a {
+        color: #ffffff;
+    }
+
+/* Dark mode links on hover */
+    a:hover {
+        color: #ffcc00;
+    }
+
+/* Dark mode footer */
+    footer {
+        display: flex;
+        background-color: #000;
+        color: #ffffff;
+    }
+
+/* Dark mode footer links */
+    footer a {
+        color: #ffffff;
+    }
+
+/* Dark mode footer links on hover */
+    footer a:hover {
+        color: #ffcc00;
+    }
+
+/* Add more specific styles as needed */
+    ul{
+        display: flex;
+        list-style-type: none;
+    }
+    .mlist{
+        padding: 20px;
+    }
+    .mqlist{
+        display: flex;
+    }
+    .mqhlist{
+        padding-left: 10px;
+    }
