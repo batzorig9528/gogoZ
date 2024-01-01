@@ -72,25 +72,25 @@
             </header>
             <ul>
                 <li>
-                    <a href="medee.html">
+                    <a href="medee.html" id="m1">
                         <img src="md1.jpg">
                         <h3>мэдээ1</h3>
                     </a>
                 </li>
                 <li>
-                    <a href="medee.html">
+                    <a href="medee.html" id="m2">
                         <img src="md1.jpg">
                         <h3>мэдээ2</h3>
                     </a>
                 </li>
                 <li>
-                    <a href="medee.html">
+                    <a href="medee.html" id="m3">
                         <img src="md1.jpg">
                         <h3>мэдээ3</h3>
                     </a>
                 </li>
                 <li>
-                    <a href="medee.html">
+                    <a href="medee.html" id="m4">
                         <img src="md1.jpg">
                         <h3>мэдээ4</h3>
                     </a>
