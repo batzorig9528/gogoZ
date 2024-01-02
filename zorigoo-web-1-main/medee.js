@@ -41,7 +41,7 @@
                     <article style="margin-left: 20px;">
                         <div class="pro">
                             <img src="${data.profile.image}">
-                            <p style="padding-left: 5px; color: #ffffffb4;">${data.profile.author}</p>
+                            <a href="#" id="proa"><p style="padding-left: 5px; color: #ffffffb4;">${data.profile.author}</p></a>
                             <img src="time-gray.9098dcef.svg" style="padding-left: 10px; ">
                             <p style="padding-left: 5px; color: #ffffffb4; width: 100px;">${data.profile.timestamp}</p>
                             ${data.profile.socialMedia.facebook ? '<img src="facebook.483468e9.svg" style="padding-left: 750px;">' : ''}

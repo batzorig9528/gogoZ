@@ -7,6 +7,7 @@
       {
         "li": {
           "a": {
+            "author": "saraa",
             "type": "onts",
             "href": "#",
             "id": "m7",
@@ -39,9 +40,10 @@
       {
         "li": {
           "a": {
+            "author": "naraa",
              "type": "engiin",
             "href": "#",
-            "id": "mm7",
+            "id": "m9",
             "style": "display: flex;",
             "img": {
               "src": "md1.jpg"
@@ -71,6 +73,7 @@
       {
         "li": {
           "a": {
+            "author": "bold",
              "type": "onts",
             "href": "#",
             "id": "m8",
@@ -103,9 +106,10 @@
       {
         "li": {
           "a": {
+            "author": "nomin",
              "type": "engiin",
             "href": "#",
-            "id": "mm4",
+            "id": "m10",
             "style": "display: flex;",
             "img": {
               "src": "md1.jpg"

@@ -143,4 +143,24 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
             });
         });
+        document.addEventListener('DOMContentLoaded', function () {
+            // Add a click event listener to the anchor tag
+            document.getElementById('proa').addEventListener('click', async function (event) {
+                // Prevent the default link behavior
+                event.preventDefault();
         
+                try {
+                    // Fetch the data dynamically
+                    const queryParams = new URLSearchParams(window.location.search);
+                    console.log(queryParams.get("article"))
+                   
+                    const newURL = `tsag agaar.html?${queryParams}`;
+        
+                    // Navigate to the new page
+                    window.location.href = newURL;
+                } catch (error) {
+                    console.error('Error fetching data:', error);
+                }
+            });
+        });
+    

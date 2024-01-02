@@ -1,10 +1,8 @@
-
 document.addEventListener('DOMContentLoaded', async function () {
     try {
         const response = await fetch('./idata.json');
         const data = await response.json();
         renderHTML(data);
-
         // Add event listeners to elements with 'm7' and 'm8' IDs
         const m7Element = document.getElementById('m7');
         const m8Element = document.getElementById('m8');
@@ -47,7 +45,7 @@ document.addEventListener('DOMContentLoaded', async function () {
                 }
             });
         }
-
+        
     } catch (error) {
         console.error('Error fetching data:', error);
     }
